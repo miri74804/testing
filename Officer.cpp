@@ -14,4 +14,4 @@ double Officer::getMark() {
 	return mark;
 }
 
-int y = 0;
+int x = 0;
