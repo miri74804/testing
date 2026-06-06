@@ -13,3 +13,5 @@ void Officer::print() {
 double Officer::getMark() {
 	return mark;
 }
+
+int x = 0;
