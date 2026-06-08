@@ -1,0 +1,12 @@
+/lesson1/publish
+/lesson1/lesson1/obj
+/lesson1/lesson1/bin/Debug/net8.0
+/lesson1/lesson1/bin/Release/net8.0
+/lesson1/*.sln
+/lesson1/.vs/lesson1/v17/.futdcache.v2
+/lesson1/.vs/lesson1/FileContentIndex/efce8c52-dc83-49cc-964c-f905e332af52.vsidx
+/lesson1/.vs/lesson1/FileContentIndex
+/lesson1/.vs/ProjectEvaluation/*.bin
+/lesson1/.vs/lesson1/DesignTimeBuild/.dtbcache.v2
+/lesson1/.vs/lesson1/v17
+*.txt
